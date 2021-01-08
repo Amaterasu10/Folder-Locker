@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1608809807 source:c:\users\admin\onedrive\desktop\codeblockscppprojects\locker\main.cpp
+	<stdlib.h>
+	<iostream>
+	<conio.h>
+
+1610103399 source:c:\users\admin\onedrive\desktop\codeblockscppprojects\folder locker\main.cpp
+	<stdlib.h>
+	<iostream>
+	<conio.h>
+	<limits>
+
